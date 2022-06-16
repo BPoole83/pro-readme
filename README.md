@@ -1,5 +1,5 @@
 # README Generator
-[![Issues](https://img.shields.io/github/issues/valiantcreative33/readme-generator)](https://github.com/valiantcreative33/readme-generator/issues) [![Issues](https://img.shields.io/github/contributors/valiantcreative33/readme-generator)](https://github.com/valiantcreative33/readme-generator/graphs/contributors) ![MIT License](https://img.shields.io/badge/license-MIT-blue)
+
 
 ## Description
 A Node.js application that will help you generate a professional README file.
